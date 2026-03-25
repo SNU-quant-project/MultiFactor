@@ -16,6 +16,108 @@
 
 </div>
 
+## 🏆 스터디원별 실험 결과
+
+각자 실험한 멀티팩터 전략의 결과를 아래에 기록해주세요!
+
+---
+
+<table>
+<tr>
+<th width="160">👤 스터디원</th>
+<th width="320">📐 멀티팩터 구성요소</th>
+<th width="100">💰 Total Return</th>
+<th width="80">📈 CAGR</th>
+<th width="80">⚡ Sharpe</th>
+<th width="100">🔄 Avg Turnover</th>
+</tr>
+
+<tr>
+<td align="center"><b>송우현</b><br><code>송우현</code></td>
+<td>
+
+`-`
+
+</td>
+<td align="center"><code>-</code></td>
+<td align="center"><code>-</code></td>
+<td align="center"><code>-</code></td>
+<td align="center"><code>-</code></td>
+</tr>
+
+<tr>
+<td align="center"><b>김도훈</b><br><code>김도훈</code></td>
+<td>
+
+`-`
+
+</td>
+<td align="center"><code>-</code></td>
+<td align="center"><code>-</code></td>
+<td align="center"><code>-</code></td>
+<td align="center"><code>-</code></td>
+</tr>
+
+<tr>
+<td align="center"><b>권도현</b><br><code>권도현</code></td>
+<td>
+
+`-`
+
+</td>
+<td align="center"><code>-</code></td>
+<td align="center"><code>-</code></td>
+<td align="center"><code>-</code></td>
+<td align="center"><code>-</code></td>
+</tr>
+
+<tr>
+<td align="center"><b>문민종</b><br><code>문민종</code></td>
+<td>
+
+`-`
+
+</td>
+<td align="center"><code>-</code></td>
+<td align="center"><code>-</code></td>
+<td align="center"><code>-</code></td>
+<td align="center"><code>-</code></td>
+</tr>
+
+<tr>
+<td align="center"><b>공의진</b><br><code>공의진</code></td>
+<td>
+
+`-`
+
+</td>
+<td align="center"><code>-</code></td>
+<td align="center"><code>-</code></td>
+<td align="center"><code>-</code></td>
+<td align="center"><code>-</code></td>
+</tr>
+
+</table>
+
+> 📝 **작성 방법**: 실험 완료 후 `-`를 지우고 본인의 결과를 입력해주세요!  
+> **멀티팩터 구성요소** 예시: `ROE, Momentum_12M, PER_inverse` — 사용한 팩터의 컬럼명과 간단한 설명
+
+<details>
+<summary>✍️ <b>결과 기록 예시 (클릭하여 펼치기)</b></summary>
+<br>
+
+| 항목 | 예시 |
+|:---|:---|
+| **멀티팩터 구성요소** | `ROE` (자기자본이익률), `Momentum_12M` (12개월 모멘텀), `PBR_inverse` (저PBR) |
+| **Total Return** | `245.3%` |
+| **CAGR** | `18.7%` |
+| **Sharpe** | `1.32` |
+| **Avg Turnover** | `42.5%` |
+
+</details>
+
+---
+
 ## 🎯 프로젝트 개요
 
 | 항목 | 내용 |
@@ -173,18 +275,6 @@ _fund_cache/
 .venv/
 __pycache__/
 ```
-
----
-
-## 👥 팀 멤버
-
-| 이름 | 브랜치 | 실험 내용 |
-|:---:|:---:|:---|
-| (이름) | `브랜치명` | 실험 설명 |
-| (이름) | `브랜치명` | 실험 설명 |
-| (이름) | `브랜치명` | 실험 설명 |
-
-> 📝 각자 실험 후 위 표를 업데이트해주세요!
 
 ---
 
