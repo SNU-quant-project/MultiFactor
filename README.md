@@ -88,7 +88,7 @@
 <td align="center"><b>공의진</b><br><code>공의진</code></td>
 <td>
 
-`-`
+`ROE30_UP + PER30_DOWN + DE40_DOWN + FCF80_UP`
 
 </td>
 <td align="center"><code>-</code></td>
