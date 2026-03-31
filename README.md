@@ -88,13 +88,13 @@
 <td align="center"><b>공의진</b><br><code>공의진</code></td>
 <td>
 
-`ROE30_UP + PER30_DOWN + DE40_DOWN + FCF80_UP`
+`ROE상위30%, PER하위30%, DE하위40%, FCF상위80%로 포트폴리오 구성`
 
 </td>
-<td align="center"><code>-</code></td>
-<td align="center"><code>-</code></td>
-<td align="center"><code>-</code></td>
-<td align="center"><code>-</code></td>
+<td align="center"><code>1442.4%</code></td>
+<td align="center"><code>35.50%</code></td>
+<td align="center"><code>1.41</code></td>
+<td align="center"><code>27.4%</code></td>
 </tr>
 
 </table>
